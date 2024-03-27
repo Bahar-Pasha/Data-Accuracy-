@@ -1,1 +1,2 @@
 # Data-Accuracy-
+This Python script analyzes an Excel dataset for data accuracy. It calculates the total number of rows, identifies rows with a time difference exceeding 60 minutes, processes specific columns to concatenate and calculate string lengths, and counts rows where prices are below a threshold of 1,000,000. Each function within the script serves a distinct purpose in data exploration and quality control.
